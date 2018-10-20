@@ -1,4 +1,4 @@
-# ExtensionV2
+# Extension-typescript-sample
 
 Download [developer-rig](https://github.com/twitchdev/developer-rig)\
 `Run yarn start`\

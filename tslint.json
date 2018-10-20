@@ -1,0 +1,17 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint-microsoft-contrib"
+        //"tslint-eslint-rules"
+    ],
+    "rules": {
+        "linebreak-style": false,
+        "no-any": false,
+        "no-trailing-whitespace": [true, "ignore-blank-lines"],
+        "no-console": false,
+        "no-implicit-dependencies": [true, ["twitch", "jquery"]],
+        "import-name": [true, {"jquery": "$"}]
+    },
+    "jsRules": {},
+    "rulesDirectory": []
+}

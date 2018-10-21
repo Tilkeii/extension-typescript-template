@@ -60,4 +60,7 @@ declare module 'twitch' {
      */
     export function unlisten(callback: () => void): void;
 
+    namespace rig {
+        export function log(value: any): void;
+    }
 }

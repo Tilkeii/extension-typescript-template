@@ -11,7 +11,7 @@
     "tslint": "tslint",
     "cert": "node bin/generate_cert.js server"
   },
-  "author": "",
+  "author": "Tilkeii",
   "license": "ISC",
   "devDependencies": {
     "@types/jquery": "^3.3.17",
@@ -26,7 +26,5 @@
     "webpack-cli": "^3.1.2",
     "webpack-dev-server": "^3.1.9"
   },
-  "dependencies": {
-    "phaser": "^3.14.0"
-  }
+  "dependencies": {}
 }
